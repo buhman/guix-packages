@@ -23,5 +23,3 @@
     (description "Guess what GNU Hello prints!")
     (home-page "https://www.gnu.org/software/hello/")
     (license gpl3+)))
-
-hello
